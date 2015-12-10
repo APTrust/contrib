@@ -1,0 +1,3 @@
+[submodule "aptrust-tools-dspace-rts"]
+	path = uc-aptrust-tools-dspace-rts
+	url = https://github.com/uclibs/aptrust-tools-dspace-rts
